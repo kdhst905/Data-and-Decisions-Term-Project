@@ -18,4 +18,4 @@ Independent variable is the major cause to change the result of the dependent va
 Out of all the listed independent variables, we predict year ripened, region, and grape species will have the most and direct effect on the Judge Rating. Thus, by researching each independent variable, we will be able to predict how each independent variable affect the Judge Rating score.
 
 # Source of Data:
-BlogOsVinos.csv
+BlogOsVinhos.csv
