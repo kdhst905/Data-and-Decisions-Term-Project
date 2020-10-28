@@ -1,7 +1,8 @@
 # Data-and-Decisions-Term-Project
 Olivia Hawkins, Munju Kam, Dahye Kwon  
-BAIS:9100 Data and Decisions  
+BAIS:9100 Data and Decisions 
 Professor David Nembhard  
+Fall 2020 
 
 # Overview:
 We chose a dataset describing Portuguese wine, looking specifically at judge rating based on region, year, grape species, color, alcohol percentage, producer, and average price. This will allow us to understand what factors affect the judge rating and thus save money and make informed choices when choosing which wine to select. We are assuming that a higher judge’s rating corresponds to a higher enjoyment value for the average wine-drinker, which may not be the case, but we are using Judge Rating Score as a quantitative score for the quality of the wine. Due to the vast number of Portuguese wines and the variety within, this will give knowledge about grape species and producers and help those who read it become efficient consumers. With this information, we will see which factors contribute to a higher judge’s rating. We predict that color and grape species will have some collinearity, as will region and producer. Alcohol content will react based on grape species and year, as well as variables not in this dataset, such as type of barrel used and fermentation process.
