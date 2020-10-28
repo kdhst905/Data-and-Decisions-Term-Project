@@ -19,3 +19,7 @@ Out of all the listed independent variables, we predict year ripened, region, an
 
 # Source of Data:
 BlogOsVinhos.csv
+Primary source: https://osvinhos.blogspot.com/ 
+The csv file was downloaded from:
+https://data.world/loliveira1999/portuguese-wine-dataset-from-blogosvinhos
+
